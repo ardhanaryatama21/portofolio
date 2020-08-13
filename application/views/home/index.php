@@ -115,8 +115,8 @@
 				<h2 class="txt-hireme">Interested Working With Me?</h2>
 			</div>
 			<div class="col-12 mt-3">
-				<a class="btn btn-project mx-1">See All Project</a>
-				<a class="btn btn-hireme mx-1">Hire Me!</a>
+				<a class="btn btn-project m-1">See All Project</a>
+				<a class="btn btn-hireme m-1">Hire Me!</a>
 			</div>
 		</div>
 		<img class="img-rectangle d-none d-lg-block" src="<?= base_url()?>assets/rectangle-partikel.svg" alt="partikel">
